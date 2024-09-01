@@ -20,11 +20,14 @@ It contains data from the ASSISTments online learning platform. On this platform
 
 After downloading the data, all files should be placed in the folder `data`. This is required for executing the code.
 
+The data set `final_data_main_approach.csv` that is created during the data preparation process and serves as the basis for all experiments is available via the Google Drive folder. This data set should also be placed in the `data` folder.  
+Furthermore, the Google Drive folder provides all files related to the results. For executing the notebooks in `evaluation_comparison`, it is required to copy the `results` folder and place it in this repository at the same level as the `data` folder.
+
 ## Project Structure
 
 ### Data Preparation
 
-All files related to data preparation are stored in the folder `data_preparation`.
+All files related to data preparation are stored in the folder `data_preparation`.  
 The data needed for executing the experiments (additionally to the data provided on https://www.kaggle.com/competitions/edm-cup-2023/data) is already stored in the `data` folder.
 
 The files have been created according to the following procedure:
