@@ -8,7 +8,7 @@ Submitted 02.09.2024
 To contribute, clone the project via the command window:
 `git clone git@gitlab.com:chiara-11/elearning-recommender.git`
 
-On Windows the workflow is as follows:  
+On Windows using `pyenv`, the workflow is as follows:  
 Ensure that python version `3.11.5` is used by executing `pyenv install 3.11.5` and `pyenv local 3.11.5`.
 Initialize the project by creating and activating the virtual environment in the terminal: `python -m venv .venv` and `.venv\Scripts\activate`.
 Load the required dependencies using `pip install -r requirements.txt`.
