@@ -13,6 +13,8 @@ Ensure that python version `3.11.5` is used by executing `pyenv install 3.11.5` 
 Initialize the project by creating and activating the virtual environment in the terminal: `python -m venv .venv` and `.venv\Scripts\activate`.
 Load the required dependencies using `pip install -r requirements.txt`.
 
+To test if running files works, follow the steps in the notebook `test_running_code.ipynb` in the `sources` folder.
+
 ## Data
 
 The data set was introduced as part of the EDM Cup 2023 and can be downloaded here: https://www.kaggle.com/competitions/edm-cup-2023/overview.
