@@ -1,13 +1,8 @@
-# Personalized Exercise Recommendation for Small Group Sizes in e-Learning
-
-Master Thesis by Chiara Purkl  
-Submitted 02.09.2024
+# Exercise Recommendations for the Classroom Setting: Solving the Problem of Data Scarcity for Recommendation and Evaluation
 
 ## Contributing
 
-To contribute, clone the project via the command window:
-`git clone git@gitlab.com:chiara-11/elearning-recommender.git`
-
+To contribute, clone the project.
 On Windows using `pyenv`, the workflow is as follows:  
 Ensure that python version `3.11.5` is used by executing `pyenv install 3.11.5` and `pyenv local 3.11.5`.
 Initialize the project by creating and activating the virtual environment in the terminal: `python -m venv .venv` and `.venv\Scripts\activate`.
